@@ -11,5 +11,3 @@ class Person
     @name
   end
 end
-
-hispanic= person.new(julio)
